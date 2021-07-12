@@ -23,6 +23,9 @@
             android:background="@drawable/bg_circle"
             android:src="@drawable/ic_zoom_in_black_24dp"
             />
+
+
+
         <ImageButton
             android:id="@+id/zoomout"
             android:layout_width="40dp"
